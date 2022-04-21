@@ -1,6 +1,35 @@
 /* Archivo de estilos */
 
+body{
+background-color:#FFF362;
+}
+
+
 img{
-  width: auto;
-  height: auto;
+  width: 50%;
+  height: 50%;
+}
+
+#name {
+color: #00060D;
+font-family: 'Square Peg', cursive;
+font-size: 30px;
+}
+
+.azul{
+color:#0000FF;
+font-family: 'Roboto', sans-serif;
+font-size: 50px;
+}
+
+.lista{
+color:#FC4500
+}
+
+.lista{
+color:#FC4500
+}
+
+.parrafo{
+font-family: 'Roboto', sans-serif;
 }
