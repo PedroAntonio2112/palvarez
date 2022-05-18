@@ -1,0 +1,138 @@
+/* Archivo de estilos */
+
+body {
+  background-color: #F5F5F5;
+}
+
+#titulo{
+	font-family: 'Bebas Neue', cursive;
+	color: #71E63D;
+	background: #EBFAA5;
+}
+
+ #tabla{
+   color: #282C34; 
+}
+
+
+img.escudo{
+  width: 50%;
+}
+
+#fondoesc{
+  background: #D6FF84
+ 
+}
+
+img.cc{
+  width: 10%;
+}
+
+.header {
+  text-align: center;
+}
+
+#name {
+color: #282C34;
+font-family: 'Ms Madi', cursive;
+font-size: 50px;
+}
+
+.name {
+color: #282C34;
+font-family: 'Ms Madi', cursive;
+font-size: 20px;
+}
+
+div.a {
+  text-align: center;
+}
+
+.qgiscloud{
+  width: 100% !important;
+  height: 500px;
+
+}
+
+a:link {
+  color: #265301;
+}
+
+a:visited {
+  color: #437A16;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
+
+#titgeo{
+    color: #71E63D;
+	background: #000000;
+}
+
+.licencia{
+	color: #F00E0E;
+	background: #FBA403;
+	font-family: 'Dancing Script', cursive;
+	
+}
+.tecno{
+	color: #1A2DFF;
+	background: #BDDEDC;
+	font-family: 'Koulen', cursive;
+}
+	
+.ini{
+	color: ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+.pedro{
+    color: #000000;
+    background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+.ja{
+	color: ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+.andr{
+	color: ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+
+.edu{
+	color:  ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+.alv{
+	color:  ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+
+.val{
+	color:  ;
+	background: #1BBBF5;
+	font-family: 'Lobster', cursive;
+}
+	
+#tema{
+	background; #14FA6A;
+}
+
+#al{
+	font-family: 'Bebas Neue', cursive;
+}
+
+	
