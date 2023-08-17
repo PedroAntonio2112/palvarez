@@ -29,11 +29,11 @@
       <table id="tabla" style="width:100%; height:100%;">
       <tr>
         <td class="ini"><a href="Index.html" target="_self">Inicio</a></td>
-        <td class="pedro"><a href="MapaPedro.html" target="_self">Lengua Indígena</a></td>
-        <td class="ja"><a href="Mapa Jaz.html" target="_self">Segregación socioespacial</a></td>
-        <td class="andr"><a href="MapaAndres.html" target="_self">Gentrificación</a></td>
-        <td class="edu"><a href="MapaLalo.html" target="_self">Migración</a></td>
-        <td class="val"><a href="MapaVale.html" target="_self">Mapa Valeria</a></td>
+        <td class="pedro"><a href="MapaPrueba.html" target="_self">Lengua Indígena</a></td>
+        <td class="ja"><a href="MapaPrueba.html" target="_self">Segregación socioespacial</a></td>
+        <td class="andr"><a href="MapaPrueba.html" target="_self">Gentrificación</a></td>
+        <td class="edu"><a href="MapaPrueba.html" target="_self">Migración</a></td>
+        <td class="val"><a href="MapaPrueba.html" target="_self">Mapa Valeria</a></td>
         <td class="alv"><a href="MapaPrueba.html" target="_self">Contacto</a></td>
       </tr>
       <tr>
